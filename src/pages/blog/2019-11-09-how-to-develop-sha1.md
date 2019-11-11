@@ -14,4 +14,9 @@ tags:
 ---
 This time I developed SHA-1 function and use C language.
 
-This is RFC about SHA-1.
+SHA-1 stands for US Secure Hash Algorithm 1 (SHA1);
+
+This is RFC about SHA-1.\
+<https://tools.ietf.org/html/rfc3174>
+
+I read RFC and describe how to develop SHA-1 by using C language.
